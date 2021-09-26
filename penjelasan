@@ -1,0 +1,1 @@
+Disini saya menggunakan sensor gerak, kipas, garasi. Ketika kipas menyala akan terdeteksi sensor gerak kemudian garasi akan terbuka. begitupun sebaliknya jika kipas mati maka sensor gerak tidak mendeteksi sehingga garasi akan tertutup.
